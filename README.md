@@ -1,5 +1,5 @@
-## Hi there 👋
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+
+![Profile views](https://counter.kuber.studio/Relichtyy/hacker/count.svg)
 <!--
 **ReLichtyy/Relichtyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
