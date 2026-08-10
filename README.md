@@ -12,7 +12,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Software_Engineering-21262D?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Architecture-21262D?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Full_Stack-21262D?style=for-the-badge" />
 
