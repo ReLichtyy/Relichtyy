@@ -1,16 +1,21 @@
 
 ![Profile views](https://counter.kuber.studio/Relichtyy/hacker/count.svg)
-<!--
-**ReLichtyy/Relichtyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Joshua
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `Software Engineer`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Engineering+Software.;Designing+Architecture.;Building+Full+Stack.;Learning.+Building.+Improving." />
+
+<br/>
+
+**Building software while continuously deepening my understanding of engineering and architecture.**
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Software_Engineering-21262D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Architecture-21262D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full_Stack-21262D?style=for-the-badge" />
+
+</div>
