@@ -4,7 +4,7 @@
 
 ### `Software Engineer`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Exploring.;Designing+Architecture.;Building+Full+Stack.;Learning.+Building.+Improving." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Exploring.;Doing+Ideas.;Designing+Architecture.;Learning.+Building.+Improving." />
 
 <br/>
 
