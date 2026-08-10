@@ -16,7 +16,8 @@
 <img src="https://img.shields.io/badge/Architecture-21262D?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Full_Stack-21262D?style=for-the-badge" />
 
-</div>
+
 
 
 ![Profile views](https://counter.kuber.studio/Relichtyy/hacker/count.svg)
+</div>
