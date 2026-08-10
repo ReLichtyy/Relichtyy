@@ -1,8 +1,6 @@
-
-![Profile views](https://counter.kuber.studio/Relichtyy/hacker/count.svg)
 <div align="center">
 
-# Joshua
+# Joshua -- Rihito
 
 ### `Software Engineer`
 
@@ -19,3 +17,6 @@
 <img src="https://img.shields.io/badge/Full_Stack-21262D?style=for-the-badge" />
 
 </div>
+
+
+![Profile views](https://counter.kuber.studio/Relichtyy/hacker/count.svg)
