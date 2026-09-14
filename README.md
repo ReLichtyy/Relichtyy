@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Architecture-21262D?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Full_Stack-21262D?style=for-the-badge" />
 
-
+Open to Work/CoWork
 
 ![Mi Matriz de Actividad Personalizada](./activity-matrix.svg)
 ![Profile views](https://counter.kuber.studio/Relichtyy/hacker/count.svg)
