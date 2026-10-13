@@ -8,7 +8,7 @@
 
 <br/>
 
-**Building software while continuously deepening my understanding of engineering and architecture.**
+**Building and Learning with consistency.**
 
 <br/><br/>
 
