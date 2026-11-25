@@ -3609,7 +3609,7 @@
           rx="2" 
           fill="#ef4444"
         >
-          <title>2 commits el 2026-11-18</title>
+          <title>3 commits el 2026-11-18</title>
         </rect>
         <rect 
           x="826" 
@@ -3670,6 +3670,16 @@
           fill="#1e293b"
         >
           <title>0 commits el 2026-11-24</title>
+        </rect>
+        <rect 
+          x="842" 
+          y="58" 
+          width="12" 
+          height="12" 
+          rx="2" 
+          fill="#1e293b"
+        >
+          <title>0 commits el 2026-11-25</title>
         </rect></g>
   <!-- Leyenda inferior -->
   <g transform="translate(10, 130)" font-size="10" fill="#94a3b8">
